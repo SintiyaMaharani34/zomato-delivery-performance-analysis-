@@ -266,14 +266,10 @@ zomato-delivery-performance-analysis/
 
 # 📷 Dashboard Preview
 
-> Add your Power BI dashboard screenshot here.
+> <img width="801" height="482" alt="image" src="https://github.com/user-attachments/assets/6d2ec642-e561-4d6e-aa59-3797225ae64c" />
+
 
 ```
-<img width="811" height="486" alt="image" src="https://github.com/user-attachments/assets/011ade8a-3f06-486c-a6e2-aae2d9d84c79" />
-
-```
-
----
 
 # 📌 Project Highlights
 
