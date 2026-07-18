@@ -266,7 +266,7 @@ zomato-delivery-performance-analysis/
 
 # 📷 Dashboard Preview
 
-> <img width="801" height="482" alt="image" src="https://github.com/user-attachments/assets/6d2ec642-e561-4d6e-aa59-3797225ae64c" />
+> <img width="521" height="325" alt="image" src="https://github.com/user-attachments/assets/d1cf35ec-156b-4594-80fb-e310eb9190ea" />
 
 
 ```
